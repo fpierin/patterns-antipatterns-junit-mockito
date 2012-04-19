@@ -11,7 +11,8 @@
 ## Suggested environment
 
 	* Eclipse Indigo IDE
-	* JUnit 4.8.2
+	* Maven2
+	* JUnit 4.10
 	* Mockito 1.9.0
 
 ## More examples
