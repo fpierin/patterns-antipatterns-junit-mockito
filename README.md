@@ -11,12 +11,8 @@
 ## Suggested environment
 
 	* Eclipse Indigo IDE
-<<<<<<< HEAD
-	* JUnit 4.8.2
-=======
 	* Maven2
 	* JUnit 4.10
->>>>>>> local
 	* Mockito 1.9.0
 
 ## More examples
@@ -27,6 +23,3 @@
 
      Felipe Lombardi Pierin
      felipe.pierin@yahoo.com.br
-     
-     
-     
